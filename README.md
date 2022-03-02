@@ -32,3 +32,6 @@ This project is a PWA application which helps to create notes or code snippets w
 
 ## Credits:
 Parul Raj
+Joe Rehfuss
+Brett Belka
+Frantz Felix
