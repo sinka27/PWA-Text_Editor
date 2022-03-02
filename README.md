@@ -4,7 +4,7 @@
 - [Description](#description)
 - [What to expect](#what-to-expect)
 - [Links](#links)
-- [Installation](#installation)
+- [Screenshot](#screenshot)
 
 ## Description
 This project is a PWA application which helps to create notes or code snippets with or without an internet connection, so that it can reliably retrieved for later use.
@@ -23,17 +23,12 @@ This project is a PWA application which helps to create notes or code snippets w
 * On registering a service worker, user should have static assets pre cached upon loading along with subsequent pages and static assets.
 * Deploying to Heroku, should have proper build scripts for a webpack application.
 
-
 ## Links
 * GitHub: https://github.com/sinka27/PWA-Text_Editor
-* Deployed Page: 
+* Deployed Page: https://pwajate.herokuapp.com/
 
-## Installation
- * Clone this repo to your machine
- * Open up the terminal and run "npm install". This will install the necessary packages and dependancies needed to run this API.
- * Application is ready to be used. Refer to the Usage section for futher instructions.
- 
- 
+## Screenshot
+ ![](./assets/jate.png)
 
 ## Credits:
 Parul Raj
